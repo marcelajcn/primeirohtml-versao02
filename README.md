@@ -17,3 +17,8 @@ https://marcelajcn.github.io/primeirohtml-versao02/
 
 ![demonstração de como ficou o projeto](https://i.postimg.cc/D7wsvcpx/000.jpg)
 
+
+## Autores
+
+- [@marcelajcn](https://github.com/marcelajcn)
+
